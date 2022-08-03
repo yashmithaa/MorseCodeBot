@@ -1,0 +1,8 @@
+#logs folder
+.logs
+
+#py files
+morsebot.py
+
+#unnecessary
+*.txt

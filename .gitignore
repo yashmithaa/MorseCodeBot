@@ -2,7 +2,7 @@
 .logs
 
 #py files
-morsebot.py
+*.py
 
 #unnecessary
 *.txt

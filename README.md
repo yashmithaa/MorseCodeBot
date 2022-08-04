@@ -1,2 +1,2 @@
 # MorseCodeBot
-A discord bot that helps you translate and learn Morse code!
+A discord bot that helps you translate and encode or decode Morse code!

@@ -1,5 +1,7 @@
 #py files
-*.py
+config.py
+soundbot.py
+morsebot.py
 
 #unnecessary
 *.env
